@@ -4,7 +4,7 @@
     <string name="ps_cancel">취소</string>
     <string name="ps_take_picture">촬영</string>
     <string name="ps_rule">사진이나 비디오를 동시에 선택할 수 없습니다.</string>
-    <string name="ps_message_max_num">최대 %1$s 달러 자 그림 선택</string>
+    <string name="ps_message_max_num">사진은 %1$s만 선택할 수 있어요</string>
     <string name="ps_min_video_num">최소한 비디오 선택은 %1$s 달러 자 이상이어야 합니다.</string>
     <string name="ps_message_video_max_num">최대 %1$s 달러 개의 동영상을 선택할 수 있습니다.</string>
     <string name="ps_message_audio_max_num">최대 %1$s 달러 개의 오디오를 선택할 수 있습니다.</string>
@@ -59,7 +59,7 @@
     <string name="ps_choose_min_seconds">%1$ds 내의 영상을 선택할 수 없습니다</string>
     <string name="ps_choose_limit_seconds">%1$ds~%2$ds 내의 영상만 선택할 수 있습니다</string>
     <string name="ps_go_setting">설치</string>
-    <string name="ps_know">알 겠 습 니 다</string>
+    <string name="ps_know">확인</string>
     <string name="ps_data_null">데이터 없 음…</string>
     <string name="ps_editor">편집 하 다</string>
     <string name="ps_use_camera">카메라 사용 중</string>
